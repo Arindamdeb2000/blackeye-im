@@ -67,6 +67,7 @@ Usage:
 </p>
 Note: Made for Educational Purposes,use it with mutual consent of the victim.
 <p><a href="https://i.imgur.com/TJFmaGq.png"><img title="blackeye-im" src="https://i.imgur.com/TJFmaGq.png"></a>
+<p><a href="#"><img title="ngrok Login" src="https://dashboard.ngrok.com/get-started/setup"></a>
 </p>
 
  
